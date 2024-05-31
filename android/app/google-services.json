@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "729262386456",
+    "firebase_url": "https://smartholticulture4-default-rtdb.firebaseio.com",
+    "project_id": "smartholticulture4",
+    "storage_bucket": "smartholticulture4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729262386456:android:422e0ead3de3440c6b026d",
+        "android_client_info": {
+          "package_name": "com.example.smart_holticulture_4_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729262386456-1roj5u5jmt450ok892a3t91ca959d2c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAczF4v8_WEQzcqat35S5vZc3OxjW3Tj3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729262386456-1roj5u5jmt450ok892a3t91ca959d2c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729262386456:android:badd8efb05ba4d786b026d",
+        "android_client_info": {
+          "package_name": "com.example.urfanadjie.smart_holticulture_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729262386456-1roj5u5jmt450ok892a3t91ca959d2c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAczF4v8_WEQzcqat35S5vZc3OxjW3Tj3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729262386456-1roj5u5jmt450ok892a3t91ca959d2c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
